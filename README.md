@@ -1,6 +1,6 @@
 # HamTool
 
-HamTool Pro is a Windows WPF research organizer with **live public API search**, curated public search destinations, a local SQLite audit trail, case labels, settings, and exports. It is designed to be extended through individual source adapters rather than pretending every website has a universal API.
+HamTool is a Windows WPF research organizer with **live public API search**, curated public search destinations, a local SQLite audit trail, case labels, settings, and exports. It is designed to be extended through individual source adapters rather than pretending every website has a universal API.
 
 ## Build and run
 1. Install the [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) on Windows.
